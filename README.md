@@ -1,16 +1,20 @@
 # trip_app_olsps
 
 A new Flutter project.
+The technologies used on this project includes
+Dart
+Flutter
+curved_navigation_bar:
+intl: 
+sqflite: 
+bloc: 
+flutter_bloc: 
+conditional_builder: 
+Notes:
+Left out pagination because i wanted to be familiar with library syncfusion_flutter_datagrid that uses paginating on flutter.
 
-## Getting Started
+Additional info:
+-This project would require Maps to show the actual gps location.
+-Include RestApi  to save data to the server and also on the device for realtime syncronization.
+-
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
